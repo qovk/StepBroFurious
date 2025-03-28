@@ -125,7 +125,7 @@ local function getObjGen()
                 UIListLayout_9 = Instance.new("UIListLayout"),
                 UIPadding_5 = Instance.new("UIPadding"),
                 Window = Instance.new("Frame"),
-                Watermark = Instance.new("false"),
+                Watermark = Instance.new("nil"),
                 UIPadding_6 = Instance.new("UIPadding"),
                 MainUI = Instance.new("Frame"),
                 DropShadowHolder_9 = Instance.new("Frame"),
